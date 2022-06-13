@@ -11,10 +11,10 @@
   },
   "devDependencies": {
     "typescript": "^4.5.4",
-    "vite": "^2.9.9",
-    "vite-plugin-windicss": "^1.8.4"
+    "vite": "^2.9.9"
+ 
   },
   "dependencies": {
-    "@luk3d/flutjs": "^0.2.1"
+    "@luk3d/flutjs": "^0.2.3"
   }
 }
